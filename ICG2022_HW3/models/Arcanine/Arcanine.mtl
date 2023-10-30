@@ -1,0 +1,30 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl Material_#35
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+map_Kd textures/pm0059_00_BodyA1.png
+
+newmtl Material_#36
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+map_Kd textures/pm0059_00_Eye1.png
+
+newmtl Material_#37
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+map_Kd textures/pm0059_00_BodyB1.png
+
+newmtl Material_#38
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+map_Kd textures/pm0059_00_Iris1.png

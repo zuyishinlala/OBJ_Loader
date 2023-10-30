@@ -1,0 +1,6 @@
+newmtl cubeMtl
+  Ns 30.0000
+  Ka 0.2 0.2 0.2
+  Kd 1 1 1
+  Ks 1 1 1
+  map_Kd kumamon.jpg

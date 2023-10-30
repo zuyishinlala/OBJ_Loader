@@ -1,0 +1,20 @@
+newmtl phong1SG
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+map_Kd textures/GreenPaperPattern.jpg
+
+newmtl phong2SG
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+map_Kd textures/GrassTexture.jpg
+
+newmtl phongE1SG
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+map_Kd textures/LeatherCampoRose.jpg
